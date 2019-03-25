@@ -1,0 +1,9 @@
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Infra.CrossCutting\bin\Release\netstandard2.0\TrunckPad.Infra.CrossCutting.deps.json
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Infra.CrossCutting\bin\Release\netstandard2.0\TrunckPad.Infra.CrossCutting.dll
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Infra.CrossCutting\bin\Release\netstandard2.0\TrunckPad.Infra.CrossCutting.pdb
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Infra.CrossCutting\obj\Release\netstandard2.0\TrunckPad.Infra.CrossCutting.csprojResolveAssemblyReference.cache
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Infra.CrossCutting\obj\Release\netstandard2.0\TrunckPad.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Infra.CrossCutting\obj\Release\netstandard2.0\TrunckPad.Infra.CrossCutting.AssemblyInfoInputs.cache
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Infra.CrossCutting\obj\Release\netstandard2.0\TrunckPad.Infra.CrossCutting.AssemblyInfo.cs
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Infra.CrossCutting\obj\Release\netstandard2.0\TrunckPad.Infra.CrossCutting.dll
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Infra.CrossCutting\obj\Release\netstandard2.0\TrunckPad.Infra.CrossCutting.pdb
