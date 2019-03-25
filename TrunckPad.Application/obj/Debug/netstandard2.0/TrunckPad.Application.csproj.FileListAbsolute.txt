@@ -1,0 +1,14 @@
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\obj\Debug\netstandard2.0\TrunckPad.Application.csproj.CoreCompileInputs.cache
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\obj\Debug\netstandard2.0\TrunckPad.Application.AssemblyInfoInputs.cache
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\obj\Debug\netstandard2.0\TrunckPad.Application.AssemblyInfo.cs
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\bin\Debug\netstandard2.0\TrunckPad.Application.deps.json
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\bin\Debug\netstandard2.0\TrunckPad.Application.dll
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\bin\Debug\netstandard2.0\TrunckPad.Application.pdb
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\bin\Debug\netstandard2.0\TrunckPad.Domain.dll
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\bin\Debug\netstandard2.0\TrunckPad.Infra.CrossCutting.dll
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\bin\Debug\netstandard2.0\TrunckPad.Domain.pdb
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\bin\Debug\netstandard2.0\TrunckPad.Infra.CrossCutting.pdb
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\obj\Debug\netstandard2.0\TrunckPad.Application.csproj.CopyComplete
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\obj\Debug\netstandard2.0\TrunckPad.Application.dll
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\obj\Debug\netstandard2.0\TrunckPad.Application.pdb
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Application\obj\Debug\netstandard2.0\TrunckPad.Application.csprojAssemblyReference.cache
