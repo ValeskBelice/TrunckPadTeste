@@ -1,0 +1,12 @@
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Domain\bin\Release\netstandard2.0\TrunckPad.Domain.deps.json
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Domain\bin\Release\netstandard2.0\TrunckPad.Domain.dll
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Domain\bin\Release\netstandard2.0\TrunckPad.Domain.pdb
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Domain\bin\Release\netstandard2.0\TrunckPad.Infra.CrossCutting.dll
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Domain\bin\Release\netstandard2.0\TrunckPad.Infra.CrossCutting.pdb
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Domain\obj\Release\netstandard2.0\TrunckPad.Domain.csprojResolveAssemblyReference.cache
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Domain\obj\Release\netstandard2.0\TrunckPad.Domain.csproj.CoreCompileInputs.cache
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Domain\obj\Release\netstandard2.0\TrunckPad.Domain.AssemblyInfoInputs.cache
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Domain\obj\Release\netstandard2.0\TrunckPad.Domain.AssemblyInfo.cs
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Domain\obj\Release\netstandard2.0\TrunckPad.Domain.csproj.CopyComplete
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Domain\obj\Release\netstandard2.0\TrunckPad.Domain.dll
+D:\marcos\TrunckPad\TrunckPad\src\TrunckPad.Domain\obj\Release\netstandard2.0\TrunckPad.Domain.pdb
